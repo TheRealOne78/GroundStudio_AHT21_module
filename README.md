@@ -2,9 +2,9 @@ GroundStudio AHT21 module
 ====================================
 ![AHT21 module REV0 0 1](https://github.com/GroundStudio/GroundStudio_AHT21_module/assets/77836107/9bf97ae8-e652-4296-bbfe-39effff8b539)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2510-modul-senzor-umiditate-si-temperatura-aht21-groundstudio.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/1598-modul-senzor-umiditate-si-temperatura-aht21-groundstudio-6427854000439.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
